@@ -1,0 +1,10 @@
+{
+  "appId": "artemis",
+  "installState": "installed",
+  "launchMode": "packaged",
+  "source": {
+    "kind": "github",
+    "url": "https://github.com/google/artemis"
+  },
+  "updatedAt": "2026-10-22T14:40:00.000Z"
+}

@@ -116,3 +116,7 @@ live_screenshot*.png
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Agnx 子应用胶水产物必须入库
+!.agnx/dist/
+!.agnx/dist/**
